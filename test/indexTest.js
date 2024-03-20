@@ -61,4 +61,4 @@ describe('index.js', function() {
       expect(calculatesFarePrice(34, 24)).to.equal('cannot travel that far');
     });
   });
-});
+})
